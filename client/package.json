@@ -2,6 +2,7 @@
   "name": "ideaboard",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "axios": "^0.17.1",
     "immutability-helper": "^2.6.4",
